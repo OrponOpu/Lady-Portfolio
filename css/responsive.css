@@ -1,0 +1,13 @@
+@media screen and (max-width: 767px){
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0px;
+}
+
+.dropdown .dropdown-menu {
+    display: none;
+}
+
+
+}
